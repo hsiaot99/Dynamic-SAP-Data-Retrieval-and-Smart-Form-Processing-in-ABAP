@@ -27,3 +27,12 @@ LOOP AT gt_data ASSIGNING FIELD-SYMBOL(<gs_data>).
   " IMPORTING...
   " TABLES...
 ENDLOOP.
+```
+
+## How to design / coding SmartForms
+• Confirm output format (first page format, second page format, last page format...)
+• Design SmartStyle
+• Design SmartForms interface
+• SmartForms: page, windows,...
+• Coding Report program
+• KISS 原則
